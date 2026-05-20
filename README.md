@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mai Abdelnaby 👋
 
-<!--
-**MeMo114/MeMo114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer specializing in building scalable SaaS platforms, microservices systems, and enterprise backend architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Focus Areas
+- Backend Engineering
+- Microservices Architecture
+- SaaS Systems
+- Clean Architecture
+- Distributed Systems
+
+---
+
+## 🛠 Tech Stack
+- ASP.NET Core
+- Django
+- PostgreSQL / SQL Server / MySQL
+- RabbitMQ
+- REST APIs
+- JWT Authentication
+- Nginx
+
+---
+
+## 🚀 Featured Projects
+- SaaS Restaurant Management System (ASP.NET Core)
+- Online Garage Booking System (Django Microservices)
+
+---
+
+## 📫 Contact
+- Email: maiabdelnaby.eg@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mai-abdelnaby-b25b2a1bb
